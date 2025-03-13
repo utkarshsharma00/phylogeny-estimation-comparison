@@ -48,12 +48,10 @@ Each dataset consists of:
 ├── results/
 │   ├── summary_results.csv            # Aggregated results
 │   ├── 1000M1/                        # Results for 1000M1 condition
-│   └── 1000M4/                        # Results for 1000M4 condition
-├── figures/
+│   ├── 1000M4/                        # Results for 1000M4 condition
 │   ├── fp_rates_by_method.png         # False Positive rates visualization
 │   └── fn_rates_by_method.png         # False Negative rates visualization
-└── paper/
-    └── phylogeny_comparison.tex       # LaTeX paper
+-
 ```
 
 ## Key Findings
